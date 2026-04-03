@@ -7,7 +7,7 @@
 
 ## 🚀 Демо
 
-👉 https://dias-frontend.github.io/expanding-cards/
+👉 https://dias-frontend.github.io/facebook-login-clone/
 
 ---
 
